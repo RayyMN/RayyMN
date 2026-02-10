@@ -8,9 +8,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -22,9 +20,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -44,9 +40,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -68,9 +62,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -84,9 +76,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -110,9 +100,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
@@ -121,14 +109,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RayyMN&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=reyykcuu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<hr>
 
 ###
 
